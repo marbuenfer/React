@@ -1,2 +1,2 @@
 # React
-Scripts y proyectos en React
+Scripts y proyectos en React, to learn and practicing.
